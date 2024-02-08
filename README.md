@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-<img align="right" src="https://github.com/ninujanirandul/ninujanirandul/blob/main/Developer.gif"/>
+<img align="right" src="[https://github.com/ninujanirandul/ninujanirandul/blob/main/ninuja.gif]"/>
 </div>
 <br />
 
