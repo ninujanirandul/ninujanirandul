@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br />
 
-# GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/RazorKenway)
+# Status
 - [![GitHub followers](https://img.shields.io/github/followers/ninujanirandul.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninujanirandul?tab=followers)
 
 
