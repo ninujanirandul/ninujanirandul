@@ -1,8 +1,14 @@
 # Profile Info :
 
+<div align="right">
+<img width="30%" img align="right" src="https://github.com/ninujanirandul/ninujanirandul/blob/main/developer-dribbble.gif"/>
+</div>
+<br />
+
 #### 👋 Hello, I’m Ninuja Nirandul Dissanayaka.. Welcome To My Profile
 #### 🎀 I’m currently learning Linux Shell Html PHP Java JS CSS C++
 #### 👨‍🎓 I'm Still Student &  Beginner developer
+<br />
 
 # Languages & Github Status :
 
@@ -42,16 +48,16 @@
 
 </p>  
 <div align="right">
-<a href="https://https://github.com/ninujanirandul">
+<a href="https://github.com/ninujanirandul">
   <img align="left" alt="Ninuja Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/Razor_Kenway">
-  <img align="left" alt="Ninuja Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://tiktok.com/@ninuja_nirandul">
+  <img align="left" alt="Ninuja TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/ninuja_nirandul/">
   <img align="left" alt="Ninuja Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://">
+<a href="https://https://www.facebook.com/ninujanirandul.dissanayaka">
   <img align="left" alt="Ninuja Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </div>
