@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/RazorKenway)
-- [![GitHub followers](https://img.shields.io/github/followers/RazorKenway.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RazorKenway?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/ninujanirandul.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninujanirandul?tab=followers)
 
 
 <p align ="center">
