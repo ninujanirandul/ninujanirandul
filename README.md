@@ -12,6 +12,10 @@
 
 # Languages & Github Status :
 
+- <a href="https://github.com/ninujanirandul/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ninujanirandul">
+</a>
+
 - [![GitHub followers](https://img.shields.io/github/followers/ninujanirandul.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ninujanirandul?tab=followers)
 
 <div align="left">
