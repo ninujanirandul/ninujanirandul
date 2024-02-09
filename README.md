@@ -56,7 +56,7 @@
   <img align="left" alt="Ninuja Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://tiktok.com/@ninuja_nirandul">
-  <img align="left" alt="Ninuja TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ninuja TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
 </a>
 <a href="https://www.instagram.com/ninuja_nirandul/">
   <img align="left" alt="Ninuja Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
